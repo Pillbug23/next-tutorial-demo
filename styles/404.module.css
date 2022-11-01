@@ -1,0 +1,8 @@
+.notfound {
+  text-align: center;
+}
+
+.notfound a {
+  color: #4979ff;
+  text-decoration: underline;
+}
