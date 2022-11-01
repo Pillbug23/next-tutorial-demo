@@ -1,9 +1,8 @@
-// Custom 404 Page if a URL odesnt exist when a user goes to it
-
 import React from "react";
-import Link from "next/Link";
+import Link from "next/link";
 import styles from "../styles/404.module.css";
 
+// Custom 404 Page if a URL odesnt exist when a user goes to it
 const NotFound = () => {
   return (
     <div className={styles.notfound}>
